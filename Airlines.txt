@@ -1,0 +1,1 @@
+The aim of this C program is to generate a seat booking system for two types of aircraft: AM57 and NB3842. The program allows users to interact with a seating layout, book seats, cancel bookings, and manage profits for the two aircrafts.
